@@ -1,35 +1,35 @@
 papers:
 
   - title: "Modelling individual variability in habitat selection and movement using integrated step‐selection analysis"
-    authors: "Nilanjan Chatterjee, David Wolfson, Dongmin Kim, Juliana Velez, Smith Freeman, Nathan M Bacheler, Kyle Shertzer, J Christopher Taylor, John Fieberg"
+    authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Juliana Velez, Smith Freeman, Nathan M Bacheler, Kyle Shertzer, J Christopher Taylor, John Fieberg"
     venue: "Methods in Ecology and Evolution"
     paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.14321
     statsml: y
     selected: y
 
   - title: "Identifying signals of memory from observations of animal movements in Plato's cave"
-    authors: "Dongmin Kim, Peter Thompson, David Wolfson, Jerod Merkle, Luiz Gustavo Rodrigues Oliveira-Santos, James Forester, Tal Avgar, Mark Lewis, John Fieberg"
+    authors: "<b>Dongmin Kim</b>, Peter Thompson, David Wolfson, Jerod Merkle, Luiz Gustavo Rodrigues Oliveira-Santos, James Forester, Tal Avgar, Mark Lewis, John Fieberg"
     venue: "bioRxiv preprint"
     paper_pdf: https://www.biorxiv.org/content/biorxiv/early/2023/08/17/2023.08.15.553411.full.pdf
     statsml: y
     selected: y
 
   - title: "Six strategies for framing theoretical research questions"
-    authors: "Allison Shaw, Ave T Bisesi, Chris Wojan, Dongmin Kim, Martha Torstenson, Naven Narayanan, Peter Lutz, Ruby Ales, Cynthia Shao"
+    authors: "Allison Shaw, Ave T Bisesi, Chris Wojan, <b>Dongmin Kim</b>, Martha Torstenson, Naven Narayanan, Peter Lutz, Ruby Ales, Cynthia Shao"
     venue: "Authorea preprint"
     paper_pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/204322/preprint_pdf/b6ead306e671ce656d7909d2cf77906b.pdf
     statsml: y
     selected: y
 
   - title: "Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology"
-    authors: "Elliot Gould, Hannah S Fraser, Timothy H Parker, Shinichi Nakagawa, Simon C Griffith, Peter A Vesk, Fiona Fidler, Daniel G Hamilton, Robin N Abbey-Lee, Jessica K Abbott, Luis A Aguirre, Carles Alcaraz, Irith Aloni, Drew Altschul, Kunal Arekar, Jeff W Atkins, Joe Atkinson, Christopher Baker, Meghan Barrett, Kristian Bell, Suleiman Kehinde Bello, Iván Beltrán, Bernd J Berauer, Michael Grant Bertram, Peter D Billman, Charlie K Blake, Shannon Blake, Louis Bliard, Andrea Bonisoli-Alquati, Timothée Bonnet, Camille Nina Marion Bordes, Aneesh PH Bose, Thomas Botterill-James, Melissa Anna Boyd, Sarah A Boyle, Tom Bradfer-Lawrence, Jennifer Bradham, Jack A Brand, Martin I Brengdahl, Martin Bulla, Luc Bussière, Ettore Camerlenghi, Sara E Campbell, Leonardo LF Campos, Anthony Caravaggi, Pedro Cardoso, Charles JW Carroll, Therese A Catanach, Xuan Chen, Heung Ying Janet Chik, Emily Sarah Choy, Alec Philip Christie, Angela Chuang, Amanda J Chunco, Bethany L Clark, Andrea Contina, Garth A Covernton, Murray P Cox, Kimberly A Cressman, Marco Crotti, Connor Davidson Crouch, Pietro B D'Amelio, Alexandra Allison de Sousa, Timm Fabian Döbert, Ralph Dobler, Adam J Dobson, Tim S Doherty, Szymon Marian Drobniak, Alexandra Grace Duffy, Alison B Duncan, Robert P Dunn, Jamie Dunning, Trishna Dutta, Luke Eberhart-Hertel, Jared Alan Elmore, Mahmoud Medhat Elsherif, Holly M English, David C Ensminger, Ulrich Rainer Ernst, Stephen M Ferguson, Esteban Fernández-Juricic, Thalita Ferreira-Arruda, John Fieberg, Elizabeth A Finch, Evan A Fiorenza, David N Fisher, Amélie Fontaine, Wolfgang Forstmeier, Yoan Fourcade, Graham S Frank, Cathryn A Freund, Eduardo Fuentes-Lillo, Sara L Gandy, Dustin G Gannon, Ana I García-Cervigón, Alexis C Garretson, Xuezhen Ge, William L Geary, Charly Géron, Marc Gilles, Antje Girndt, Daniel Gliksman, Harrison B Goldspiel, Dylan GE Gomes, Megan Kate Good, Sarah C Goslee, J Stephen Gosnell, Eliza M Grames, Paolo Gratton, Nicholas M Grebe, Skye M Greenler, Maaike Griffioen, Daniel M Griffith, Frances J Griffith, Jake J Grossman, Ali Güncan, Stef Haesen, James G Hagan, Heather A Hager, Jonathan Philo Harris, Natasha Dean Harrison, Sarah Syedia Hasnain, Justin Chase Havird, Andrew J Heaton, María Laura Herrera-Chaustre, Tanner J Howard, Bin-Yan Hsu, Fabiola Iannarilli, Esperanza C Iranzo, Erik NK Iverson, Saheed Olaide Jimoh, Douglas H Johnson, Martin Johnsson, Jesse Jorna, Tommaso Jucker, Martin Jung, Ineta Kačergytė, Oliver Kaltz, Alison Ke, Clint D Kelly, Katharine Keogan, Friedrich Wolfgang Keppeler, Alexander K Killion, Dongmin Kim, David P Kochan, Peter Korsten, Shan Kothari, Jonas Kuppler, Jillian M Kusch, Malgorzata Lagisz"
+    authors: "Gould E, Fraser HS, Parker TH, Shinichi N, Griffith SC, Vesk PA, Fidler F,... <b>Kim D</b>, ..., Zimmerman GM, Zitomer RA"
     venue: "EcoEvoRxiv preprint"
     paper_pdf: https://ecoevorxiv.org/repository/view/6000/?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news
     statsml: y
     selected: y
 
   - title: "Migration and tolerance shape host behaviour and response to parasite infection"
-    authors: "Dongmin Kim, Allison K Shaw"
+    authors: "<b>Dongmin Kim</b>, Allison K Shaw"
     venue: "Journal of Animal Ecology"
     paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.13539
     statsml: y
