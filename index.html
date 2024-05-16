@@ -3,154 +3,121 @@ layout: default
 title: Home
 ---
 <!-- ========== BIO ========== -->
-<div class="docs-section" id="bio">
+<div class="docs-section" id="about">
   <h4>Bio</h4>
-  <p>
-    I am currently an assistant professor at the computer science department in Stanford university. 
-</p>
-  <p>
-    
-    My research uses tools from statistics to make machine learning systems more robust and trustworthy &#8212; especially in complex systems such as large language models. The goal of my research is to use robustness and worst-case performance as a lens to understand and make progress on several fundamental challenges in machine learning and natural language processing. A few topics of recent interest are,
-    
-    <dl style="PADDING-LEFT: 40px">
-    <dt><b>Long-tail behavior</b></dt> <dd>How can we ensure that a machine learning system won't fail catastrophically in the wild under changing conditions?</dd>
-    <dt><b>Understanding</b></dt>
-    <dd>A system which <i> understands </i> how to answer questions or generate text should also do so robustly out-of-domain. </dd>
-    <dt><b>Fairness</b></dt>  <dd>Machine learning systems which rely on unreliable correlations can result in spurious and harmful predictions.</dd>
-    </dl>
-
-  </p>
-  <p>
-    Previously, I was a post-doc at Stanford working for <a href=https://web.stanford.edu/~jduchi/ target="_blank">John C. Duchi</a> and <a href=https://cs.stanford.edu/~pliang/ target="_blank">Percy Liang</a> on tradeoffs between the average and worst-case performance of machine learning models. Before my post-doc, I was a graduate student at MIT co-advised by <a href=https://people.csail.mit.edu/tommi/ target="_blank">Tommi Jaakkola</a> and <a href=http://cgs.csail.mit.edu/ target="_blank">David Gifford</a> and a undergraduate student at Harvard in statistics and math advised by <a href=http://www.people.fas.harvard.edu/~airoldi/ target="_blank">Edoardo Airoldi</a>.
+  <p style="text-align: justify;">
+  I am currently a PhD Candidate at the University of Minnesota Twin Cities (UMN), in the Department of Ecology, Evolution, and Behavior, under the supervision of  <a href="https://allisonkshaw.weebly.com/">Allison Shaw</a> and <a href="https://fieberg-lab.cfans.umn.edu/">John Fieberg</a>. Previously, I completed a BA in Statistics at the University of Minnesota, Morris advised by <a href="https://morris.umn.edu/directory/jon-anderson">Jon Andersen</a>, where I worked on regression methods in Biostatistics. 
   </p>
 
-</div>
+  <p style="text-align: justify;">
+  My research interests are in applied statistics in movement ecology. I am currently interested in quantifying the effects of hidden factors that influence animal movement (e.g., disease, cognition, traits).
+  </p>
 
+<!--  <p> <b style="color: red;">Note</b>: <b>I am looking for full-time research or job opportunities starting Summer 2024!</b></p>
 
-<div class="docs-section" id="people">
-  <h4>Advisees</h4>
-
-
-      {% assign current_people = site.data.students.students | where: "category", "current" %}
-      {% for person in current_people %}
-        <div class="paper">
-          <p style="line-height: 0.5">
-            {% if person.link %}
-            <a href="{{ person.link | prepend: site.baseurl }}" target="_blank"><b>{{ person.name }}</b></a>
-            {% else %}
-            <b>{{ person.name }}</b>
-              
-              {% endif %}
-               ({{ person.time }}) <i>{{ person.place }}</i>
-          </p>
-        </div>
-      {% endfor %}
-</div>
-
-
-
-<!--
-  <h4>Recent Research Areas</h4>
-
-<div class="docs-section" id="projects">
-
-      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
-      {% for project in selected_projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <center>
-                  <b>{{ project.title }}</b> <br/>
-                  </center>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-
-</div>
-
---!>
-
-
-<!-- ========== PUBLICATIONS ========== -->
-
-
-<!-- old people 
-<div class="docs-section" id="people">
-  <h4>Advisees</h4>
-
-
-  <ul class="tab-nav">
-    <li><div class="button active" data-ref="#current">Current</div></li>
-    <li><div class="button" data-ref="#former">Former</div></li>
+  <!-- <p>Here are some keywords: </p>
+  <ul>
+    <li>
+      Human-AI
+    </li>
+    <li>
+      NLP for Public Health (e.g., developing large language models (LLMs) for pubilc health surveillance)
+    </li>
+    <li>
+      NLP for Social Media Analysis (e.g., processing noisy texts on social media platforms)
+    </li>
+    <li>
+      Equitable AI for Health (e.g., debiasing NLP models, clinical notes, or social media)
+    </li>
   </ul>
+  </p>  -->
 
-  <div class="tab-content">
+  <!-- <p>
+  My research goal is to develop <b>AI-driven systems</b> that tackle various <b>societal challenges</b>, such as promoting equitable access in healthcare, education, social welfare systems, and safer online communities.
+  In my previous work, I utilized <b>data mining</b> and <b> natural language processing (NLP)</b> to (1) extract insights on social welfare disparities and (2) predict mental health risks in US neighborhoods from Twitter.
+  I also contributed to research projects in <b>deep learning and NLP</b>, investigating clinical language models' performance in low-resource settings and enhancing vision-language models with Bayesian Inference and GPT-3. 
+  These previous experiences not only expanded our understanding of health and society but also demonstrated my versatility in different research domains.
+  </p> -->
+  
+  <!-- <p>I am eager to <b>broaden</b> my research interests to encompass fields like <b>multimodal reasoning</b>, <b>causal inference</b>, <b>Human-centered AI</b> and <b>Human-Computer Interaction (HCI)</b>. 
+    By venturing into these areas, I aim to contribute towards making our societies more conducive to human well-being through advancements in AI.</p> -->
+  
+  <!-- <p><b>ATTENTION: I am looking for a full-time research position in the U.S. starting July 2023 (No Visa Sponsorship Needed)! </b>
+  </p> -->
 
-    <div class="tab-pane active" id="current">
-      {% assign current_people = site.data.students.students | where: "category", "current" %}
-      {% for person in current_people %}
-        <div class="paper">
-          <p class="title"><b>{{ person.name }}</b> ({{ person.time }})</p>
-          <p><i>{{ person.place }}</i></p>
-          {% if person.current %}
-          <p> {{ person.current }} </p>
-          {% endif %}
-        </div>
-      {% endfor %}
-    </div>
+  <!-- In particular, I am interested in mining information from large-scale social media and/or healthcare data by utilizing <b>statistics, machine learning (ML) and natural language processing (NLP)</b>, which ultimately aims to provide a deeper understanding of <b>socio-environmental impacts on human behaviors and health</b>.  -->
+  <!-- Previously, I have extracted meaningful insights about public health from different sources of unstructured data (e.g., CDC behavioral risk survey, clinical notes, social media posts, geospatial data) using data mining and NLP approaches.  -->
+  <!-- I am also interested in widening my research interests to causal inference on human behaviors and social structures through online data.  -->
+  
+</div>
 
-    <div class="tab-pane" id="former">
-      {% assign former_people = site.data.students.students | where: "category", "former" %}
-      {% for person in former_people %}
-        <div class="paper">
-          <p class="title"><b>{{ person.name }}</b> ({{ person.time }})</p>
-          <p><i>{{ person.place }}</i></p>
-          {% if person.current %}
-          <p> {{ person.current }} </p>
-          {% endif %}
-        </div>
-      {% endfor %}
-    </div>
-    
+<!-- <div class="docs-section" id="prospective-students">  
+  <h4>Prospective Students</h4>
+  <p>
+  <b>I'm recruiting PhD students to start Fall 2023 at the University of Washington! </b>
+  I'm especially looking for students with a background and/or interest in <i>social network analysis, machine learning, causal inference, or natural language processing</i>, and are passionate about using computational methods to study how online social platforms can be reimagined to <i>enable better conversations, bridge political divides, and reduce the spread of misinformation</i>. 
+  If you are interested, please apply to the UW iSchool <a href="https://ischool.uw.edu/programs/phd/admissions" target="_blank">PhD program</a> and mention me in your application.
+  If you have any questions, feel free to reach out by email!
+  </p> 
+</div> -->
+
+<!-- ========== News ========== -->
+<div class="docs-section" id="news">
+  <h4>Updates</h4>
+  <div style="height:200px; width:auto; border:1px solid #ccc; overflow:auto;">
+    <ul>
+      <li>
+        <b style="color:cadetblue">[May. 2024]</b> &nbsp&nbsp
+        New <a href="https://www.authorea.com/users/240137/articles/741714-six-strategies-for-framing-theoretical-research-questions">preprin</a> from A.Shaw lab is out! 
+        Check out how to frame theoretical questions in biology!
+      </li>    
+      <li>
+        <b style="color:cadetblue">[April. 2024]</b> &nbsp&nbsp
+        New Fieberg lab x NOAA Fisheries <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14321">paper</a> led by Nilanjan is out in <i>Methods in Ecology and Evolution</i>! 
+        Check out how to model individual variability using step-selection function! 
+      </li>    
+      <li>
+        <b style="color:cadetblue">[Oct. 2023]</b> &nbsp&nbsp
+        New <a href="https://ecoevorxiv.org/repository/view/6000/">preprint</a> is out! 
+        Check out what happens when many different researchers analyze the same data!
+      </li>      
+      <li>
+        <b style="color:cadetblue">[Aug. 2023]</b> &nbsp&nbsp
+        New <a href="https://www.biorxiv.org/content/10.1101/2023.08.15.553411v1.abstract">preprint</a> is out! 
+        Interested in learning how to incorporate familiarity covariates into step-selection analyses? - this is for you! 
+      </li>      
+      <li>
+        <b style="color:cadetblue">[April. 2023]</b> &nbsp&nbsp
+        I was awarded the <a href="https://grad.umn.edu/funding/current-students/doctoral-dissertation-fellowship"> Doctoral Dissertation Fellowship</a> for 2023-2024!  
+      </li>
+      <li>
+        <b style="color:cadetblue">[July. 2022]</b> &nbsp&nbsp
+        I received the <a href="https://www.nsf.gov/pubs/2021/nsf21013/nsf21013.jsp">National Science Foundation (NSF) - INTERN Award</a> to work with the Smithsonian Conservation Biology Institute's Conservation Ecology Center (CEC) for 2022-2023! 
+      </li>   
+      <li>
+        <b style="color:cadetblue">[May. 2022]</b> &nbsp&nbsp
+        I received the <a href="https://fellowships.si.edu/opportunity/smithsonian-institution-fellowship-program-sifp">Smithsonian Institution Fellowship (SIFP)</a> to work with the Smithsonian Migratory Bird Center for summer 2022! 
+      </li> 
+    </ul>
   </div>
 </div>
--->
 
+<!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
 
-  <p>Most recent publications on <a href="https://scholar.google.com/citations?user=5ygiTwsAAAAJ" target="_blank">Google Scholar</a>.</p>
+  <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/>
+  <sup>‡</sup> indicates equal contribution.
+  </p>
 
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-sel">Selected and Recent Papers</div></li>
-    <li><div class="button" data-ref="#papers-all">All</div></li>    
-    <li><div class="button" data-ref="#papers-ML">Stats+ML</div></li>
-    <li><div class="button" data-ref="#papers-NLP">NLP</div></li>
-    <li><div class="button" data-ref="#papers-Bio">Comp Bio</div></li>
+    <li><div class="button" data-ref="#papers-all">All</div></li> 
   </ul>
 
   <div class="tab-content">
-
-    <div class="tab-pane active" id="papers-sel">
+    
+<div class="tab-pane active" id="papers-sel">
       {% assign papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in papers %}
         <div class="paper">
@@ -180,7 +147,7 @@ title: Home
       {% endfor %}
     </div>
 
-    <!-- All PAPERS -->
+ <!-- All PAPERS -->
     <div class="tab-pane" id="papers-all">
       {% assign papers = site.data.publications.papers %}
       {% for paper in papers %}
@@ -211,144 +178,87 @@ title: Home
       {% endfor %}
     </div>
     
+  </div>
+</div>
 
-    <!-- ML PAPERS -->
-    <div class="tab-pane" id="papers-ML">
-      {% assign ml_papers = site.data.publications.papers | where: "statsml", "y" %}
-      {% for paper in ml_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-            {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-            {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
+<!-- ========== PROJECTS ==========  -->
+<!-- <div class="docs-section" id="projects">
+  <h4>Projects</h4> -->
 
+  <!-- <p>Research Portfolio in <a href={{"/assets/cv/portfolio_website.pdf" | prepend: site.baseurl }} target="_blank">PDF</a>.</p> -->
+
+  <!-- <ul class="tab-nav">
+    <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
+    <li><div class="button" data-ref="#projects-all">All</div></li>
+  </ul> -->
+
+  <!-- <div class="tab-content">
+    <div class="tab-pane active" id="projects-selected">
+      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
+      {% for project in selected_projects %}
+        {% assign index_modulo = forloop.index0 | modulo:3 %}
+        {% if index_modulo == 0 %}
+          <div class="row">
+        {% endif %}
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <div class="project-image-container">
+                  <a href="{{ project.url }}">
+                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
+                  </a>
+                </div>
+
+                <div class="project-caption">
+                  <b>{{ project.title }}</b> <br/>
+                  {{ project.subtitle }}
+                </div>
+
+            </div>
           </div>
-        </div>
+
+        {% if index_modulo == 2 %}
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
 
-    <!-- NLP PAPERS -->
-    <div class="tab-pane" id="papers-NLP">
-      {% assign nlp_papers = site.data.publications.papers | where: "nlp", "y" %}
-      {% for paper in nlp_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-          {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-              {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-        </div>
+    <div class="tab-pane" id="projects-all">
+      {% for project in site.data.projects.projects %}
+        {% assign index_modulo = forloop.index0 | modulo:3 %}
+        {% if index_modulo == 0 %}
+          <div class="row">
+        {% endif %}
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <div class="project-image-container">
+                  <a href="{{ project.url }}">
+                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
+                  </a>
+                </div>
+
+                <div class="project-caption">
+                  <b>{{ project.title }}</b> <br/>
+                  {{ project.subtitle }}
+                </div>
+
+            </div>
+          </div>
+
+        {% if index_modulo == 2 %}
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
-    <!-- Bio PAPERS -->
-    <div class="tab-pane" id="papers-Bio">
-      {% assign bio_papers = site.data.publications.papers | where: "bio", "y" %}
-      {% for paper in bio_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-            {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-            {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-        </div>
-      {% endfor %}
-    </div>
-    
   </div>
-</div>
+
+</div> -->
 
 
-
-<div class="docs-section" id="teaching">
-  <h4>Teaching</h4>
-  {% assign current_classes = site.data.classes.classes | where: "category", "current" %}
-  {% for class in current_classes %}
-  <div class="class">
-    <p class="title"><b>{{ class.name }}</b> ({{ class.time }}): <a href={{class.link}} target="_blank">{{ class.title }}</a></p>
-  </div>
-  {% endfor %}
-</div>
-
-<!--
-<div class="docs-section" id="talks">
-  <h4>Talks and slides</h4>
-  {% assign current_talks = site.data.talks.talks | where: "category", "current" %}
-  {% for talk in current_talks %}
-  <div class="talk">
-    <p class="title"><b>{{ talk.name }}</b> ({{ talk.time }}): <a href={{talk.link}} target="_blank">{{ talk.title }}</a></p>
-  </div>
-  {% endfor %}
-</div>
---!>
-
-<div class="docs-section" id="former">
-  <h4>Former Advisees</h4>
-
-
-      {% assign former_people = site.data.students.students | where: "category", "former" %}
-      {% for person in former_people %}
-        <div class="paper">
-          <p style="line-height: 0.5">
-            {% if person.link %}
-            <a href="{{ person.link | prepend: site.baseurl }}" target="_blank"><b>{{ person.name }}</b></a>
-            {% else %}
-            <b>{{ person.name }}</b>
-              
-              {% endif %}
-               ({{ person.time }}) <i>{{ person.place }}</i>
-          </p>
-        </div>
-      {% endfor %}
-</div>
-
-
-
-
-<!-- ========== RESUME ========== -->
+<!-- ========== CV ========== -->
 <div class="docs-section" id="resume">
   <h4>Resume</h4>
 
