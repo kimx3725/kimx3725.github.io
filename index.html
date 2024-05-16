@@ -182,8 +182,8 @@ title: Home
     
     <!--In Review -->
     <div class="tab-pane" id="papers-rev">
-      {% assign ml_papers = site.data.publications.papers | where: "statsml", "y" %}
-      {% for paper in ml_papers %}
+      {% assign rev_papers = site.data.publications.papers | where: "rev", "y" %}
+      {% for paper in rev_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
             {% if paper.paper_pdf %}
@@ -213,8 +213,8 @@ title: Home
 
     <!-- In Prep -->
     <div class="tab-pane" id="papers-prep">
-      {% assign nlp_papers = site.data.publications.papers | where: "nlp", "y" %}
-      {% for paper in nlp_papers %}
+      {% assign prep_papers = site.data.publications.papers | where: "prep", "y" %}
+      {% for paper in prep_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
           {% if paper.paper_pdf %}
