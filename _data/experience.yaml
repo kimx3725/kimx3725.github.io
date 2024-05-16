@@ -1,14 +1,14 @@
 experiences:
-- place: "Max Planck Institute of Animal Behavior (MPIAB)"
+- place: "Max Planck Institute of Animal Behavior"
   time: "2024 - now"
   title: "Research Associate"
   subtitle: "Google Earth Engine + Generalized Mixed Effects Models (GLMMs) <br/> Advised by Kamran Safi, Anne Scharf, Martina Scacco"
   category: "work"
 
-- place: "Smithsonian Conservation Ecology Center (CEC)"
+- place: "Smithsonian Conservation Ecology Center"
   time: "2022 - 2023"
   title: "NSF Intern"
-  subtitle: "Hidden Markov models (HMMs) + Agent-based models <br/> Advised by Jared Stabach, John Fieberg, Katherine Mertes, Theo Michelot "
+  subtitle: "Hidden Markov models (HMMs) + Agent-based models <br/> Advised by Jared Stabach, John Fieberg, Katherine Mertes"
   category: "work"
 
 - place: "Smithsonian Migratory Bird Center"
