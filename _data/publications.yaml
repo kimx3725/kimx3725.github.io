@@ -1,5 +1,4 @@
 papers:
-
   - title: "Modelling individual variability in habitat selection and movement using integrated step‐selection analysis"
     authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Juliana Velez, Smith Freeman, Nathan M Bacheler, Kyle Shertzer, J Christopher Taylor, John Fieberg"
     venue: "Methods in Ecology and Evolution"
@@ -13,6 +12,7 @@ papers:
     paper_pdf: https://www.biorxiv.org/content/biorxiv/early/2023/08/17/2023.08.15.553411.full.pdf
     statsml: y
     selected: y
+    rev: y
 
   - title: "Six strategies for framing theoretical research questions"
     authors: "Allison Shaw, Ave T Bisesi, Chris Wojan, <b>Dongmin Kim</b>, Martha Torstenson, Naven Narayanan, Peter Lutz, Ruby Ales, Cynthia Shao"
@@ -20,6 +20,7 @@ papers:
     paper_pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/204322/preprint_pdf/b6ead306e671ce656d7909d2cf77906b.pdf
     statsml: y
     selected: y
+    rev: y
 
   - title: "Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology"
     authors: "Gould E, Fraser HS, Parker TH, Shinichi N, Griffith SC, Vesk PA, Fidler F,... <b>Kim D</b>, ..., Zimmerman GM, Zitomer RA"
@@ -27,6 +28,7 @@ papers:
     paper_pdf: https://ecoevorxiv.org/repository/view/6000/?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news
     statsml: y
     selected: y
+    rev: y
 
   - title: "Migration and tolerance shape host behaviour and response to parasite infection"
     authors: "<b>Dongmin Kim</b>, Allison K Shaw"
@@ -35,8 +37,24 @@ papers:
     statsml: y
     selected: y
 
+  - title: "North American bird migration in the context of conservation: a review"
+    authors: "Martha Torstenson, David Wolfson, Samuel Safran, Desiree Walton, Andrew Hallberg, <b>Dongmin Kim</b>, Yi Fan Tan, Gunnar Kramer, David Andersen"
+    statsml: y
+    rev: y
 
+  - title: "Detecting disease from animal movement using Hidden Markov models"
+    authors: "<b>Dongmin Kim</b>, Katherine Mertes, Théo Michelot, Jared Stabach, John Fieberg"
+    statsml: y
+    prep: y    
 
-    
+  - title: "Synthesis of methods to analyze responses to linear features using telemetry data"
+    authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Smith Freeman, Allicia Kelly, James Hodson, John Fieberg"
+    statsml: y
+    prep: y
+
+  - title: "Perceived and observed biases in the field of movement ecology: a case study"
+    authors: "Shaw AK, Cagnacci F, McCoy K,..., <b>Kim D</b>, ..., Wolfson DW, Yanco S."
+    statsml: y
+    prep: y    
 
 
