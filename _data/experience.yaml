@@ -5,6 +5,12 @@ experiences:
   subtitle: "Google Earth Engine + Generalized Mixed Effects Models (GLMMs) <br/> Advised by Kamran Safi, Anne Scharf, Martina Scacco"
   category: "work"
 
+  - place: "U. Minnesota, Twin Cities"
+  time: "2023-2024"
+  title: "Doctoral Dissertation Fellow"
+  subtitle: "Step Selection Function (SSF) + SIR model with ODEs <br/> Advised by Allison Shaw + John Fieberg"
+  category: "work"
+
 - place: "Smithsonian Conservation Center"
   time: "2022 - 2023"
   title: "NSF Intern"
@@ -15,18 +21,6 @@ experiences:
   time: "Summer 2022"
   title: "Smithsonian Fellow"
   subtitle: "Visualization of NOAA satellite images <br/> Advised by Autumn-Lynn Harrison"
-  category: "work"
-
-- place: "U. Minnesota, Twin Cities"
-  time: "2021"
-  title: "Research Assistant"
-  subtitle: "Step Selection Function (SSF) <br/> Advised by John Fieberg"
-  category: "work"
-
-- place: "U. Minnesota, Twin Cities"
-  time: "2020"
-  title: "Research Assistant"
-  subtitle: "SIR model + ODEs <br/> Advised by Allison Shaw"
   category: "work"
   
 - place: "U. Minnesota, Twin Cities"
