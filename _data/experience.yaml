@@ -18,6 +18,12 @@ experiences:
   category: "work"
 
 - place: "U. Minnesota, Twin Cities"
+  time: "2021"
+  title: "Research Assistant"
+  subtitle: "Step Selection Function (SSF) <br/> Advised by John Fieberg"
+  category: "work"
+
+- place: "U. Minnesota, Twin Cities"
   time: "2020"
   title: "Research Assistant"
   subtitle: "SIR model + ODEs <br/> Advised by Allison Shaw"
@@ -32,7 +38,7 @@ experiences:
 - place: "U. Minnesota, Twin Cities"
   time: "Summer 2019"
   title: "Research Assistant"
-  subtitle: "Bayesian hierarchical model + Step Selection Function (SSF) <br/> Advised by Todd Arnold + John Fieberg"
+  subtitle: "Bayesian hierarchical model <br/> Advised by Todd Arnold"
   category: "work"
 
 - place: "U. Minnesota, Morris"
