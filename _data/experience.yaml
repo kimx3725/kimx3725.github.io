@@ -16,6 +16,18 @@ experiences:
   title: "Smithsonian Fellow"
   subtitle: "Visualization of NOAA satellite images <br/> Advised by Autumn-Lynn Harrison"
   category: "work"
+
+- place: "U. Minnesota, Twin Cities"
+  time: "2021"
+  title: "Research Assistant"
+  subtitle: "Step Selection Function (SSF) <br/> Advised by John Fieberg"
+  category: "work"
+
+  - place: "U. Minnesota, Twin Cities"
+  time: "2020"
+  title: "Research Assistant"
+  subtitle: "SIR model + ODEs <br/> Advised by Allison Shaw"
+  category: "work"
   
 - place: "U. Minnesota, Twin Cities"
   time: "2019 - 2024"
