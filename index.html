@@ -348,6 +348,24 @@ title: Home
   </ul>
 </div>-->
 
+<div class="docs-section" id="people">
+  <h4>Advisees</h4>
+
+      {% assign current_people = site.data.collaborators.collaborators %}
+        <div class="paper">
+          <p style="line-height: 0.5">
+            {% if person.link %}
+            <a href="{{ person.link | prepend: site.baseurl }}" target="_blank"><b>{{ person.name }}</b></a>
+            {% else %}
+            <b>{{ person.name }}</b>
+              
+              {% endif %}
+               <i>{{ person.place }}</i>
+          </p>
+        </div>
+      {% endfor %}
+</div>
+  
   <div class="docs-section" id="ack">
   <h4>Acknowledgement</h4>
   <p>
