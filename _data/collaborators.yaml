@@ -21,11 +21,11 @@ collaborators:
 
     - name: "Smith Freeman"
       place: "University of Minnesota"
-      link: https://conssci.umn.edu/people/smith-freeman    
-    
-    - name: "Peter Thompson"
-      place: "Simon Fraser University"
-      link: https://www.sfu.ca/postdoctoral-fellows/profiles/peter-thompson.html
+      link: https://conssci.umn.edu/people/smith-freeman 
+
+    - name: "Autumn-Lynn Harrison"
+      place: "Smithsonian Migratory Bird Center"
+      link: https://nationalzoo.si.edu/about/staff/autumn-lynn-harrison      
 
     - name: "Mark Lewis"
       place: "University of Victoria"
@@ -66,6 +66,10 @@ collaborators:
     - name: "Jared Stabach"
       place: "Smithsonian Conservation Biology Institute"
       link: https://jaredstabach.com/
+      
+    - name: "Peter Thompson"
+      place: "Simon Fraser University"
+      link: https://www.sfu.ca/postdoctoral-fellows/profiles/peter-thompson.html 
       
     - name: "Martha Torstenson"
       place: "University of Minnesota"
