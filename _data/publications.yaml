@@ -14,7 +14,7 @@ papers:
     selected: y
     rev: y
 
-  - title: "Six strategies for framing theoretical research questions"
+  - title: "Six personas to adopt when framing theoretical research questions in biology"
     authors: "Allison Shaw, Ave T Bisesi, Chris Wojan, <b>Dongmin Kim</b>, Martha Torstenson, Naven Narayanan, Peter Lutz, Ruby Ales, Cynthia Shao"
     venue: "Authorea preprint"
     paper_pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/204322/preprint_pdf/b6ead306e671ce656d7909d2cf77906b.pdf
@@ -52,7 +52,7 @@ papers:
     statsml: y
     prep: y
 
-  - title: "Perceived and observed biases in the field of movement ecology: a case study"
+  - title: "Perceived and observed biases within scientific communities: a case study in movement ecology"
     authors: "Shaw AK, Cagnacci F, McCoy K,..., <b>Kim D</b>, ..., Wolfson DW, Yanco S."
     statsml: y
     prep: y    
