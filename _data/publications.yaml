@@ -16,11 +16,10 @@ papers:
 
   - title: "Six personas to adopt when framing theoretical research questions in biology"
     authors: "Allison Shaw, Ave T Bisesi, Chris Wojan, <b>Dongmin Kim</b>, Martha Torstenson, Naven Narayanan, Peter Lutz, Ruby Ales, Cynthia Shao"
-    venue: "Authorea preprint"
+    venue: "Proceedings B"
     paper_pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/204322/preprint_pdf/b6ead306e671ce656d7909d2cf77906b.pdf
     statsml: y
     selected: y
-    rev: y
 
   - title: "Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology"
     authors: "Gould E, Fraser HS, Parker TH, Shinichi N, Griffith SC, Vesk PA, Fidler F,... <b>Kim D</b>, ..., Zimmerman GM, Zitomer RA"
