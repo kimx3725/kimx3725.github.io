@@ -27,7 +27,6 @@ papers:
     venue: "EcoEvoRxiv preprint"
     paper_pdf: https://ecoevorxiv.org/repository/view/6000/?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news
     statsml: y
-    selected: y
     rev: y
 
   - title: "Migration and tolerance shape host behaviour and response to parasite infection"
