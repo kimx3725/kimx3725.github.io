@@ -20,6 +20,7 @@ papers:
     paper_pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/204322/preprint_pdf/b6ead306e671ce656d7909d2cf77906b.pdf
     statsml: y
     selected: y
+    press: y
 
   - title: "Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology"
     authors: "Gould E, Fraser HS, Parker TH, Shinichi N, Griffith SC, Vesk PA, Fidler F,... <b>Kim D</b>, ..., Zimmerman GM, Zitomer RA"
@@ -41,12 +42,12 @@ papers:
     venue: "Avian Conservation and Ecology"
     statsml: y
     selected: y
+    press: y
 
   - title: "Detecting disease progression from animal movement using hidden Markov models"
     authors: "<b>Dongmin Kim</b>, Katherine Mertes, Théo Michelot, Jared Stabach, John Fieberg"
     statsml: y
     rev: y
-    selected: y
 
   - title: "Synthesis of methods to analyze responses to linear features using telemetry data"
     authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Smith Freeman, Allicia Kelly, James Hodson, John Fieberg"
