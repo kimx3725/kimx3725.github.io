@@ -127,9 +127,10 @@ title: Home
   </p>
 
   <ul class="tab-nav">
-    <li><div class="button active" data-ref="#papers-sel">Selected and Recent Papers</div></li>
-    <li><div class="button" data-ref="#papers-rev">In Review</div></li>
-    <li><div class="button" data-ref="#papers-prep">In Preparation</div></li>
+    <li><div class="button active" data-ref="#papers-sel">Selected</div></li>
+    <li><div class="button" data-ref="#papers-press">In press</div></li>
+    <li><div class="button" data-ref="#papers-rev">In review</div></li>
+    <li><div class="button" data-ref="#papers-prep">In preparation</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li> 
   </ul>
 
@@ -231,6 +232,34 @@ title: Home
     <div class="tab-pane" id="papers-prep">
       {% assign prep_papers = site.data.publications.papers | where: "prep", "y" %}
       {% for paper in prep_papers %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b>
+          {% if paper.paper_pdf %}
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+            {% endif %}
+            {% if paper.slides %}
+              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+            {% endif %}
+            {% if paper.poster %}
+              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+            {% endif %}
+            {% if paper.video %}
+              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+            {% if paper.code %}
+              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+              {% endif %}
+          </p>
+          <p>{{ paper.authors }}</p>
+          <p><i>{{ paper.venue }}</i></p>
+        </div>
+      {% endfor %}
+    </div>
+
+      <!-- In Press -->
+    <div class="tab-pane" id="papers-press">
+      {% assign press_papers = site.data.publications.papers | where: "press", "y" %}
+      {% for paper in press_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
           {% if paper.paper_pdf %}
