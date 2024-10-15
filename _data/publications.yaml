@@ -35,12 +35,12 @@ papers:
     statsml: y
     selected: y
 
-  - title: "Conservation of North American migratory birds: insights from emerging technologies"
+  - title: "Conservation of North American migratory birds: insights from developments in tracking technologies"
     authors: "Martha Torstenson, David Wolfson, Samuel Safran, Desiree Walton, Andrew Hallberg, <b>Dongmin Kim</b>, Yi Fan Tan, Gunnar Kramer, David Andersen"
     venue: "Avian Conservation and Ecology"
+    paper_pdf: https://ace-eco.org/vol19/iss2/art13/
     statsml: y
     selected: y
-    press: y
 
   - title: "Detecting disease progression from animal movement using hidden Markov models"
     authors: "<b>Dongmin Kim</b>, Katherine Mertes, Théo Michelot, Jared Stabach, John Fieberg"
