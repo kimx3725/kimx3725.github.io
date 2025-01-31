@@ -22,7 +22,7 @@ papers:
 
   - title: "Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology"
     authors: "Gould E, Fraser HS, Parker TH, Shinichi N, Griffith SC, Vesk PA, Fidler F,... <b>Kim D</b>, ..., Zimmerman GM, Zitomer RA"
-    venue: "EcoEvoRxiv preprint"
+    venue: "BMC Biology"
     paper_pdf: https://ecoevorxiv.org/repository/view/6000/?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news
     statsml: y
     press: y
