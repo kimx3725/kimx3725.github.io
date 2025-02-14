@@ -25,7 +25,7 @@ papers:
     venue: "BMC Biology"
     paper_pdf: https://rdcu.be/d8V4L
     statsml: y
-    press: y
+    selected: y
 
   - title: "Migration and tolerance shape host behaviour and response to parasite infection"
     authors: "<b>Dongmin Kim</b>, Allison K Shaw"
