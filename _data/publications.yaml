@@ -56,6 +56,11 @@ papers:
     venue: "bioRxiv preprint"
     paper_pdf: https://www.biorxiv.org/content/10.1101/2024.07.29.605602v1.full.pdf
     statsml: y
-    rev: y    
+    rev: y   
+
+  - title: "Variation in activity patterns of Japanese serow (Capricornis crispus) across different temporal scales"
+    authors: "Kushaal Selvarajah, Seung-Yun Baek, Hayato Takada, <b>Dongmin Kim</b>, Yusaku Yamada, Shinsuke Koike"
+    statsml: y
+    rev: y
 
 
