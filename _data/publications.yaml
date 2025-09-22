@@ -60,8 +60,9 @@ papers:
   
   - title: "Variation in activity patterns of Japanese serow (Capricornis crispus) across different temporal scales"
     authors: "Kushaal Selvarajah, Seung-Yun Baek, Hayato Takada, <b>Dongmin Kim</b>, Yusaku Yamada, Shinsuke Koike"
+    venue: "European Journal of Wildlife Research"
     statsml: y
-    rev: y
+    press: y
 
   - title: "Partial migration across space and time: bridging hypotheses and mechanisms"
     authors: "<b>Dongmin Kim</b>, Teresa Pegan, David Wolfson, Ellen Aikens, Paul Moorcroft, Jesús Pinto-Ledezma"
@@ -72,5 +73,6 @@ papers:
     authors: "Ruth Oliver, Scott Yanco, Diego Ellis-Soto,... <b>Dongmin Kim</b>, ..., Laura Pollock"
     statsml: y
     prep: y    
+
 
 
