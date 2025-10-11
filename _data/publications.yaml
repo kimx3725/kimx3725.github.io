@@ -1,7 +1,7 @@
 papers:
   - title: "Modelling individual variability in habitat selection and movement using integrated step‐selection analysis"
     authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Juliana Velez, Smith Freeman, Nathan M Bacheler, Kyle Shertzer, J Christopher Taylor, John Fieberg"
-    venue: "Methods in Ecology and Evolution"
+    venue: '<b style="color:Tomato;">Methods in Ecology and Evolution</b>'
     paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.14321
     statsml: y
     selected: y
@@ -15,62 +15,63 @@ papers:
 
   - title: "Six personas to adopt when framing theoretical research questions in biology"
     authors: "Allison Shaw, Ave T Bisesi, Chris Wojan, <b>Dongmin Kim</b>, Martha Torstenson, Naven Narayanan, Peter Lutz, Ruby Ales, Cynthia Shao"
-    venue: "Proceedings of the Royal Society B"
+    venue: '<b style="color:Tomato;">Proceedings of the Royal Society B</b>'
     paper_pdf: https://royalsocietypublishing.org/doi/10.1098/rspb.2024.0803
     statsml: y
     selected: y
 
   - title: "Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology"
     authors: "Gould E, Fraser HS, Parker TH, Shinichi N, Griffith SC, Vesk PA, Fidler F,... <b>Kim D</b>, ..., Zimmerman GM, Zitomer RA"
-    venue: "BMC Biology"
+    venue: '<b style="color:Tomato;">BMC Biology</b>'
     paper_pdf: https://rdcu.be/d8V4L
     statsml: y
     selected: y
 
   - title: "Migration and tolerance shape host behaviour and response to parasite infection"
     authors: "<b>Dongmin Kim</b>, Allison K Shaw"
-    venue: "Journal of Animal Ecology"
+    venue: '<b style="color:Tomato;">Journal of Animal Ecology</b>'
     paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.13539
     statsml: y
     selected: y
 
   - title: "Conservation of North American migratory birds: insights from developments in tracking technologies"
     authors: "Martha Torstenson, David Wolfson, Samuel Safran, Desiree Walton, Andrew Hallberg, <b>Dongmin Kim</b>, Yi Fan Tan, Gunnar Kramer, David Andersen"
-    venue: "Avian Conservation and Ecology"
+    venue: '<b style="color:Tomato;">Avian Conservation and Ecology</b>'
     paper_pdf: https://ace-eco.org/vol19/iss2/art13/
     statsml: y
     selected: y
 
   - title: "Detecting disease progression from animal movement using hidden Markov models"
     authors: "<b>Dongmin Kim</b>, Théo Michelot, Katherine Mertes, Jared Stabach, John Fieberg"
-    venue: "Journal of Applied Ecology"
+    venue: '<b style="color:Tomato;">Journal of Applied Ecology</b>'
     statsml: y
     rev: y
 
   - title: "Perceived and observed biases within scientific communities: a case study in movement ecology"
     authors: "Shaw AK, Fouda L, Mezzini S, <b>Kim D</b>, Chatterjee N, Wolfson D,Abrahms B, Attias N, Beardsworth CE, Beltran R, Binning SA, Blincow KM, Chan Y-C, Fronhofer EA, Hegemann A, Hurme ER, Iannarilli F, Kellner JB, McCoy KD, Rafiq K, Saastamoinen M, Sequeira AMM, Serota MW, Sumasgutner P, Tao Y, Torstenson M, Yanco SW, Beck KB, Bertram MG, Beumer LT, Bradarić M, Clermont J, Ellis-Soto D, Faltusová M, Fieberg J, Hall RJ, Kölzsch A, Lai S, Lee-Cruz L, Loretto M-C, Loveridge A, Michelangeli M, Mueller T, Riotte-Lambert L, Sapir N, Scacco M, Teitelbaum CS, Cagnacci F."
-    venue: "Proceedings of the Royal Society B"
+    venue: '<b style="color:Tomato;">Proceedings of the Royal Society B</b>'
     paper_pdf: https://www.biorxiv.org/content/10.1101/2024.07.29.605602v1.full.pdf
     statsml: y
     selected: y   
   
   - title: "Variation in activity patterns of Japanese serow (Capricornis crispus) across different temporal scales"
     authors: "Kushaal Selvarajah, Seung-Yun Baek, Hayato Takada, <b>Dongmin Kim</b>, Yusaku Yamada, Shinsuke Koike"
-    venue: "European Journal of Wildlife Research"
+    venue: '<b style="color:Tomato;">European Journal of Wildlife Research</b>'
     statsml: y
     press: y
 
   - title: "Why migrate differently? A framework for understanding variation in partial migration"
     authors: "<b>Dongmin Kim</b>, Teresa Pegan, David Wolfson, Ellen Aikens, Paul Moorcroft, Jesús Pinto-Ledezma"
-    venue: "Ecology Letters"
+    venue: '<b style="color:Tomato;">Ecology Letters</b>'
     statsml: y
     prep: y
 
   - title: "Seven reasons we need movement-based indicators in global policy"
     authors: "Ruth Oliver, Katherine Hébert, Lacey Hughey, Nathan Cooper,..., <b>Dongmin Kim</b>, ..., Laura Pollock"
-    venue: "Nature Reviews Biodiversity"
+    venue: '<b style="color:Tomato;">Nature Reviews Biodiversity</b>'
     statsml: y
     rev: y    
+
 
 
 
