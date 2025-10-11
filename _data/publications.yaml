@@ -8,7 +8,7 @@ papers:
 
   - title: "Identifying signals of memory from observations of animal movements"
     authors: "<b>Dongmin Kim</b>, Peter Thompson, David Wolfson, Jerod Merkle, Luiz Gustavo Rodrigues Oliveira-Santos, James Forester, Tal Avgar, Mark Lewis, John Fieberg"
-    venue: "Movement Ecology"
+    venue: '<b style="color:Tomato;">Movement Ecology</b>'
     paper_pdf: https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-024-00510-9
     statsml: y
     selected: y
@@ -71,6 +71,7 @@ papers:
     venue: "Nature Reviews Biodiversity"
     statsml: y
     rev: y    
+
 
 
 
