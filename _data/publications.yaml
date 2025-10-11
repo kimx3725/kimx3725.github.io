@@ -43,13 +43,9 @@ papers:
 
   - title: "Detecting disease progression from animal movement using hidden Markov models"
     authors: "<b>Dongmin Kim</b>, Théo Michelot, Katherine Mertes, Jared Stabach, John Fieberg"
+    venue: "Journal of Applied Ecology"
     statsml: y
     rev: y
-
-  - title: "Synthesis of methods to analyze responses to linear features using telemetry data"
-    authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Smith Freeman, Allicia Kelly, James Hodson, John Fieberg"
-    statsml: y
-    prep: y
 
   - title: "Perceived and observed biases within scientific communities: a case study in movement ecology"
     authors: "Shaw AK, Fouda L, Mezzini S, <b>Kim D</b>, Chatterjee N, Wolfson D,Abrahms B, Attias N, Beardsworth CE, Beltran R, Binning SA, Blincow KM, Chan Y-C, Fronhofer EA, Hegemann A, Hurme ER, Iannarilli F, Kellner JB, McCoy KD, Rafiq K, Saastamoinen M, Sequeira AMM, Serota MW, Sumasgutner P, Tao Y, Torstenson M, Yanco SW, Beck KB, Bertram MG, Beumer LT, Bradarić M, Clermont J, Ellis-Soto D, Faltusová M, Fieberg J, Hall RJ, Kölzsch A, Lai S, Lee-Cruz L, Loretto M-C, Loveridge A, Michelangeli M, Mueller T, Riotte-Lambert L, Sapir N, Scacco M, Teitelbaum CS, Cagnacci F."
@@ -66,13 +62,16 @@ papers:
 
   - title: "Why migrate differently? A framework for understanding variation in partial migration"
     authors: "<b>Dongmin Kim</b>, Teresa Pegan, David Wolfson, Ellen Aikens, Paul Moorcroft, Jesús Pinto-Ledezma"
+    venue: "Ecology Letters"
     statsml: y
     prep: y
 
   - title: "Seven reasons we need movement-based indicators in global policy"
     authors: "Ruth Oliver, Katherine Hébert, Lacey Hughey, Nathan Cooper,..., <b>Dongmin Kim</b>, ..., Laura Pollock"
+    venue: "Nature Reviews Biodiversity"
     statsml: y
-    prep: y    
+    rev: y    
+
 
 
 
