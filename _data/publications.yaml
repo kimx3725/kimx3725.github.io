@@ -60,17 +60,18 @@ papers:
     statsml: y
     press: y
 
-  - title: "Why migrate differently? A framework for understanding variation in partial migration"
-    authors: "<b>Dongmin Kim</b>, Teresa Pegan, David Wolfson, Ellen Aikens, Paul Moorcroft, Jesús Pinto-Ledezma"
+  - title: "Understanding partial migration: linking genetic, developmental, and environmental drivers"
+    authors: "<b>Dongmin Kim</b>, Ellen Aikens, Teresa Pegan, Paul Moorcroft, David Wolfson, Jesús Pinto-Ledezma"
     venue: '<b style="color:Tomato;">Ecology Letters</b>'
     statsml: y
-    prep: y
+    rev: y
 
   - title: "Seven reasons we need movement-based indicators in global policy"
     authors: "Ruth Oliver, Katherine Hébert, Lacey Hughey, Nathan Cooper,..., <b>Dongmin Kim</b>, ..., Laura Pollock"
     venue: '<b style="color:Tomato;">Nature Reviews Biodiversity</b>'
     statsml: y
     rev: y    
+
 
 
 
