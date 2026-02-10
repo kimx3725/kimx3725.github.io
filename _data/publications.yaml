@@ -45,7 +45,7 @@ papers:
     authors: "<b>Dongmin Kim</b>, Théo Michelot, Katherine Mertes, Jared Stabach, John Fieberg"
     venue: '<b style="color:Tomato;">Journal of Applied Ecology</b>'
     statsml: y
-    rev: y
+    press: y
 
   - title: "Perceived and observed biases within scientific communities: a case study in movement ecology"
     authors: "Shaw AK, Fouda L, Mezzini S, <b>Dongmin Kim</b>, Chatterjee N, Wolfson D,Abrahms B, Attias N, Beardsworth CE, Beltran R, Binning SA, Blincow KM, Chan Y-C, Fronhofer EA, Hegemann A, Hurme ER, Iannarilli F, Kellner JB, McCoy KD, Rafiq K, Saastamoinen M, Sequeira AMM, Serota MW, Sumasgutner P, Tao Y, Torstenson M, Yanco SW, Beck KB, Bertram MG, Beumer LT, Bradarić M, Clermont J, Ellis-Soto D, Faltusová M, Fieberg J, Hall RJ, Kölzsch A, Lai S, Lee-Cruz L, Loretto M-C, Loveridge A, Michelangeli M, Mueller T, Riotte-Lambert L, Sapir N, Scacco M, Teitelbaum CS, Cagnacci F."
@@ -57,8 +57,9 @@ papers:
   - title: "Variation in activity patterns of Japanese serow (Capricornis crispus) across different temporal scales"
     authors: "Kushaal Selvarajah, Seung-Yun Baek, Hayato Takada, <b>Dongmin Kim</b>, Yusaku Yamada, Shinsuke Koike"
     venue: '<b style="color:Tomato;">European Journal of Wildlife Research</b>'
+    paper_pdf: https://link.springer.com/article/10.1007/s10344-025-02004-4
     statsml: y
-    press: y
+    selected: y
 
   - title: "Understanding partial migration: linking genetic, developmental, and environmental drivers"
     authors: "<b>Dongmin Kim</b>, Ellen Aikens, Teresa Pegan, Paul Moorcroft, David Wolfson, Jesús Pinto-Ledezma"
@@ -71,6 +72,7 @@ papers:
     venue: '<b style="color:Tomato;">Nature Reviews Biodiversity</b>'
     statsml: y
     rev: y    
+
 
 
 
