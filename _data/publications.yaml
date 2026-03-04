@@ -1,8 +1,8 @@
 papers:
-  - title: "Modelling individual variability in habitat selection and movement using integrated step‐selection analysis"
-    authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Juliana Velez, Smith Freeman, Nathan M Bacheler, Kyle Shertzer, J Christopher Taylor, John Fieberg"
-    venue: '<b style="color:Tomato;">Methods in Ecology and Evolution</b>'
-    paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.14321
+  - title: "Detecting disease progression from animal movement using hidden Markov models"
+    authors: "<b>Dongmin Kim</b>, Théo Michelot, Katherine Mertes, Jared Stabach, John Fieberg"
+    venue: '<b style="color:Tomato;">Journal of Applied Ecology</b>'
+    paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70323
     statsml: y
     selected: y
 
@@ -10,6 +10,20 @@ papers:
     authors: "<b>Dongmin Kim</b>, Peter Thompson, David Wolfson, Jerod Merkle, Luiz Gustavo Rodrigues Oliveira-Santos, James Forester, Tal Avgar, Mark Lewis, John Fieberg"
     venue: '<b style="color:Tomato;">Movement Ecology</b>'
     paper_pdf: https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-024-00510-9
+    statsml: y
+    selected: y
+
+  - title: "Migration and tolerance shape host behaviour and response to parasite infection"
+    authors: "<b>Dongmin Kim</b>, Allison K Shaw"
+    venue: '<b style="color:Tomato;">Journal of Animal Ecology</b>'
+    paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.13539
+    statsml: y
+    selected: y
+
+  - title: "Modelling individual variability in habitat selection and movement using integrated step‐selection analysis"
+    authors: "Nilanjan Chatterjee, David Wolfson, <b>Dongmin Kim</b>, Juliana Velez, Smith Freeman, Nathan M Bacheler, Kyle Shertzer, J Christopher Taylor, John Fieberg"
+    venue: '<b style="color:Tomato;">Methods in Ecology and Evolution</b>'
+    paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.14321
     statsml: y
     selected: y
 
@@ -27,24 +41,10 @@ papers:
     statsml: y
     selected: y
 
-  - title: "Migration and tolerance shape host behaviour and response to parasite infection"
-    authors: "<b>Dongmin Kim</b>, Allison K Shaw"
-    venue: '<b style="color:Tomato;">Journal of Animal Ecology</b>'
-    paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.13539
-    statsml: y
-    selected: y
-
   - title: "Conservation of North American migratory birds: insights from developments in tracking technologies"
     authors: "Martha Torstenson, David Wolfson, Samuel Safran, Desiree Walton, Andrew Hallberg, <b>Dongmin Kim</b>, Yi Fan Tan, Gunnar Kramer, David Andersen"
     venue: '<b style="color:Tomato;">Avian Conservation and Ecology</b>'
     paper_pdf: https://ace-eco.org/vol19/iss2/art13/
-    statsml: y
-    selected: y
-
-  - title: "Detecting disease progression from animal movement using hidden Markov models"
-    authors: "<b>Dongmin Kim</b>, Théo Michelot, Katherine Mertes, Jared Stabach, John Fieberg"
-    venue: '<b style="color:Tomato;">Journal of Applied Ecology</b>'
-    paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70323
     statsml: y
     selected: y
 
@@ -73,6 +73,7 @@ papers:
     venue: '<b style="color:Tomato;">Nature Reviews Biodiversity</b>'
     statsml: y
     rev: y    
+
 
 
 
