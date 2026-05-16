@@ -62,19 +62,26 @@ papers:
     statsml: y
     selected: y
 
-  - title: "Understanding partial migration: linking genetic, developmental, and environmental drivers"
-    authors: "<b>Dongmin Kim</b>, Ellen Aikens, Teresa Pegan, Paul Moorcroft, David Wolfson, Jesús Pinto-Ledezma"
-    venue: '<b style="color:Tomato;">Ecology Letters</b>'
-    statsml: y
-    rev: y
-
-  - title: "Seven reasons we need movement-based indicators in global policy"
+  - title: "A call to integrate animal movement into biodiversity indicators"
     authors: "Ruth Oliver, Katherine Hébert, Lacey Hughey, Nathan Cooper,..., <b>Dongmin Kim</b>, ..., Laura Pollock"
     venue: '<b style="color:Tomato;">Nature Reviews Biodiversity</b>'
     statsml: y
     rev: y    
 
+  - title: "Understanding partial migration: linking genetic, developmental, and environmental drivers"
+    authors: "<b>Dongmin Kim</b>, Ellen Aikens, Teresa Pegan, Paul Moorcroft, Jesús Pinto-Ledezma"
+    statsml: y
+    prep: y
 
+  - title: "Shifts in scavenger movement reflect ecosystem-scale changes in resource availability"
+    authors: "<b>Dongmin Kim</b>, Kamran Safi,..., Martina Scacco, Anne K Scharf"
+    statsml: y
+    prep: y
+
+  - title: "Move Disease Archive: integrating animal movement and infection data to advance wildlife eco-epidemiology"
+    authors: "<b>Dongmin Kim</b>, Francesca Cagnacci, Sarah Davidson, Marta Valldepers, Kevin Morelle, Will Rogers, Collin Schwantes, Clarie Teitelbaum"
+    statsml: y
+    prep: y
 
 
 
