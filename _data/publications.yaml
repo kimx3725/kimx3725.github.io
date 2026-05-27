@@ -66,7 +66,7 @@ papers:
     authors: "Ruth Oliver, Katherine Hébert, Lacey Hughey, Nathan Cooper,..., <b>Dongmin Kim</b>, ..., Laura Pollock"
     venue: '<b style="color:Tomato;">Nature Reviews Biodiversity</b>'
     statsml: y
-    rev: y    
+    press: y    
 
   - title: "Understanding partial migration: linking genetic, developmental, and environmental drivers"
     authors: "<b>Dongmin Kim</b>, Ellen Aikens, Teresa Pegan, Paul Moorcroft, Jesús Pinto-Ledezma"
