@@ -82,7 +82,7 @@ nav a.active {
 }
 
 .bio .links a {
-  color: #1a0dab;
+  margin-right: 14px;
 }
 
 .bio .links a:not(:last-child)::after {
