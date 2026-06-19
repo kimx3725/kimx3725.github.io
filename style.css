@@ -53,15 +53,12 @@ nav a.active {
 
 .photo {
   flex-shrink: 0;
+  margin-top: 12px;   /* move photo and links down */
 }
 
 .photo img {
   width: 180px;
   border-radius: 4px;
-}
-
-.bio {
-  padding-top: 5px;
 }
 
 .bio h1 {
@@ -78,14 +75,6 @@ nav a.active {
 
 .bio p {
   margin-bottom: 10px;
-}
-
-.bio .links {
-  margin-top: 8px;
-}
-
-.bio .links a {
-  margin-right: 14px;
 }
 
 .photo .links {
