@@ -7,9 +7,9 @@
 }
 
 body {
-  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
-  font-size: 15px;
-  line-height: 1.6;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
   color: #222;
   background: #fff;
   max-width: 900px;
