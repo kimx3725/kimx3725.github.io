@@ -64,6 +64,8 @@ nav a.active {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 4px;
+  margin-top: 0;
+  line-height: 1.2;
 }
 
 .bio .subtitle {
