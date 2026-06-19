@@ -77,18 +77,6 @@ nav a.active {
   margin-bottom: 10px;
 }
 
-.photo .links {
-  margin-top: 18px;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.photo .links a {
-  display: block;
-  font-size: 15px;
-}
-
 /* News list */
 .news-box {
   max-height: 320px;
@@ -191,14 +179,13 @@ footer {
     width: 160px;
   }
 
-  .bio .links {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 8px;
-  }
+.bio .links {
+  margin-top: 14px;
+  font-size: 14px;      /* slightly smaller */
+  color: #666;
+}
 
-  .bio .links a {
-    margin-right: 0;
-  }
+.bio .links a {
+  color: #1a0dab;
+  margin: 0 2px;
 }
