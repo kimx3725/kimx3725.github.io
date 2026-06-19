@@ -11,7 +11,7 @@ body {
   font-size: 15px;
   font-weight: 400;
   letter-spacing: 0;
-  line-height: 1.65;
+  line-height: 1.6;
   color: #222;
   background: #fff;
   max-width: 900px;
@@ -47,8 +47,8 @@ nav a.active {
 .header {
   display: flex;
   gap: 30px;
-  align-items: center;
-  margin-bottom: 40px;
+  align-items: flex-start;
+  margin-bottom: 30px;
 }
 
 .photo {
@@ -56,7 +56,7 @@ nav a.active {
 }
 
 .photo img {
-  width: 180px;
+  width: 200px;
   border-radius: 4px;
 }
 
@@ -86,7 +86,7 @@ nav a.active {
 }
 
 .bio .links a:not(:last-child)::after {
-  content: " |";
+  content: "|";
   color: #777;
   margin-left: 6px;
   margin-right: 6px;
@@ -114,7 +114,7 @@ nav a.active {
 }
 
 .news-date {
-  color: #c07a3a;   /* matches your journal tone */
+  color: #d4602a;   /* matches your journal tone */
   font-weight: 700;
   margin-right: 6px;
 }
