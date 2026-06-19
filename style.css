@@ -82,14 +82,13 @@ nav a.active {
 }
 
 .bio .links a {
-  margin-right: 14px;
+  margin-right: 0; /* remove extra spacing */
 }
 
 .bio .links a:not(:last-child)::after {
   content: "|";
   color: #777;
-  margin-left: 6px;
-  margin-right: 6px;
+  margin: 0 10px; /* controls spacing cleanly */
 }
 
 /* News list */
