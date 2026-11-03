@@ -91,33 +91,6 @@ nav a.active {
   margin: 0 10px; /* controls spacing cleanly */
 }
 
-/* News list */
-.news-box {
-  max-height: 320px;
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  padding: 12px 14px;
-  border-radius: 6px;
-  background: #fff;
-}
-
-.news-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.news-list li {
-  margin-bottom: 10px;
-  line-height: 1.5;
-}
-
-.news-date {
-  color: #d4602a;   /* matches your journal tone */
-  font-weight: 700;
-  margin-right: 6px;
-}
-
 html {
   scroll-behavior: smooth;
 }
@@ -125,6 +98,10 @@ html {
 /* Sections */
 section {
   margin-bottom: 30px;
+}
+
+section p {
+  margin-bottom: 12px;
 }
 
 h2 {
@@ -141,6 +118,15 @@ h3 {
   margin-top: 26px;
   margin-bottom: 12px;
   color: #111;
+}
+
+/* Research interests list */
+.interest-list {
+  padding-left: 1.5em;
+}
+
+.interest-list li {
+  margin-bottom: 4px;
 }
 
 /* Publication list */
